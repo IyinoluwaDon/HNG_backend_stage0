@@ -7,12 +7,11 @@ A RESTful API endpoint that returns profile information with a dynamically fetch
 
 ## 🔗 Live API
 
-**Endpoint:** `https://your-deployment-url.up.railway.app/me`  
-*(Update after deployment)*
+**Endpoint:** 'https://web-production-15e50.up.railway.app/me' 
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3.12
+- **Language:** Python 3.14
 - **Framework:** Flask 3.0.0
 - **HTTP Client:** Requests 2.31.0
 - **CORS:** Flask-CORS 4.0.0
@@ -89,22 +88,13 @@ The application runs with default configuration:
 
 ## 🌐 Deployment
 
-Deployed on **Railway** *(or your chosen platform)*
+Deployed on **Railway** 
 
 The application automatically adapts to deployment environments by:
 - Using the platform-assigned PORT if available
 - Binding to `0.0.0.0` for external access
 - Disabling debug mode in production
 
-## 📁 Project Structure
-
-```
-backend-stage0/
-├── backend_stage0.py    # Main Flask application
-├── requirements.txt     # Python dependencies
-├── README.md           # This file
-└── .gitignore          # Git ignore rules
-```
 
 ## 🔧 Dependencies
 
@@ -120,7 +110,7 @@ flask-cors==4.0.0
 
 **Iyinoluwa Don-Taiwo**
 - **Email:** iyinoluwadontaiwo@gmail.com
-- **GitHub:** [@YOUR_USERNAME](https://github.com/DonIyin)
+- **GitHub:** [@Iyinoluwa Don-Taiwo](https://github.com/DonIyin)
 - **Stack:** Python/Flask
 
 - Cat facts are fetched from: `https://catfact.ninja/fact`
