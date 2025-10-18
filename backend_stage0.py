@@ -11,7 +11,7 @@ CORS(app)
 def get_profile():
     """Return user profile information with a random cat fact."""
     try:
-        # Fetch cat fact from external API  
+        # Fetch cat fact from external API
         try:
             cat_response = requests.get('https://catfact.ninja/fact', timeout=5)
             cat_response.raise_for_status()
