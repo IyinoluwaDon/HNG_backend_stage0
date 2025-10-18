@@ -26,8 +26,8 @@ A RESTful API endpoint that returns profile information with a dynamically fetch
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/backend-stage0.git
-cd backend-stage0
+git clone https://github.com/DonIyin/HNG_backend_stage0.git
+cd backend_stage0
 ```
 
 2. **Install dependencies**
